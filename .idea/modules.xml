@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraysandStrings/ArraysandStrings.iml" filepath="$PROJECT_DIR$/ArraysandStrings/ArraysandStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrackingTheCodingInterview.iml" filepath="$PROJECT_DIR$/CrackingTheCodingInterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetcodeProblems/LeetcodeProblems.iml" filepath="$PROJECT_DIR$/LeetcodeProblems/LeetcodeProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectOrientedDesign/ObjectOrientedDesign.iml" filepath="$PROJECT_DIR$/ObjectOrientedDesign/ObjectOrientedDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treesAndGraphs/treesAndGraphs.iml" filepath="$PROJECT_DIR$/treesAndGraphs/treesAndGraphs.iml" />
+    </modules>
+  </component>
+</project>
